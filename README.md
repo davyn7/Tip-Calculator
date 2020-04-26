@@ -4,7 +4,7 @@
 
 **Tip Calculator** computes the tip and total amount for a bill. The app uses the base amount and tip percentage to calculate the amount owed, and it also describes the quality of service based on the tip.
 
-Time spent: **3** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Functionality
 
@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The only challenge I faced was when writing the edge cases for the bill split extension, the app crashed several times before I fixed it.
 
 ## License
 
